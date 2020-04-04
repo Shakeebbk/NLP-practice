@@ -1,1 +1,1 @@
-git pull origin HEAD:master
+git pull origin HEAD:develop
