@@ -1,1 +1,2 @@
-git pull origin HEAD:develop
+git fetch origin
+git rebase --onto=origin/develop HEAD
